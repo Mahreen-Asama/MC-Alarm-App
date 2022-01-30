@@ -1,4 +1,4 @@
 hello world.
 This is sample txt file.
 It is created to check the working of github stats.
-This is another way to
+This is another way to do
