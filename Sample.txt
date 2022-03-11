@@ -1,2 +1,2 @@
 hello world.
-This is sample txt file
+This is sample txt file.
